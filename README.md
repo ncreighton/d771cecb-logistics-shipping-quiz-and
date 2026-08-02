@@ -23,8 +23,6 @@ This bot transforms dry compliance training into a competitive, gamified experie
 
 Upgrade to the Pro version for **$49.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://cleargum.gumroad.com/l/jfjqm)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/9B68wP3aLe2Mg8847qcZc0c)** — Secure checkout
 
 ## Installation
@@ -36,7 +34,6 @@ Upgrade to the Pro version for **$49.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://cleargum.gumroad.com/l/jfjqm)
 
 ## License
 
